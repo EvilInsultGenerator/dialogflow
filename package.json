@@ -13,7 +13,7 @@
     "deploy": "firebase deploy --only functions:dialogflowFirebaseFulfillment"
   },
   "dependencies": {
-    "actions-on-google": "^2.2.0",
+    "actions-on-google": "^3.0.0",
     "firebase-admin": "^5.13.1",
     "firebase-functions": "^2.0.2",
     "dialogflow": "^0.6.0",
